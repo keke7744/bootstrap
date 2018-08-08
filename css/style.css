@@ -1,0 +1,76 @@
+body{
+	margin:0;
+	
+}
+
+.left{
+	background-color: skyblue;
+	color: #F8F8FF;
+	height: 100vh;
+	position: fixed;
+	overflow-y: scroll;
+}
+
+.right{
+	background-color: white;
+
+}
+
+#cadre{
+	height: 100%;
+}
+
+p{
+	font-family: arial;
+	font-weight: bold;
+}
+
+#first-name{
+	color:skyblue;
+}
+
+#last-name{
+	color: black;
+}
+
+#job{
+	color:skyblue;
+}
+
+.box {
+    border-radius: 15px;
+    background: skyblue;
+    padding: 20px; 
+    height: 80px; 
+}
+
+.box:hover{
+	background-color: tomato;
+	color: white;
+	transition: background-color 1000ms linear;
+}
+
+
+.box2:hover{
+	background-color: tomato;
+	color: white;
+	transition: background-color 1000ms linear;
+} 
+
+
+#yolo{
+	border-radius: 50%;
+	box-shadow: 0 0 20px 0 rgba(72,94,116,0.7);
+	margin-top: 10px;
+}
+
+.text{
+	color: grey;
+}
+
+
+
+.mlaoui{
+	height: 50px;
+}
+
